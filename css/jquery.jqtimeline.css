@@ -22,7 +22,7 @@
 	}
 
 	.gt-timeline div.event{
-		background: url(../img/main_img.png) no-repeat 0 -84px;
+		background: url(https://raw.github.com/travisrussi/jqtimeline/master/img/main_img.png) no-repeat 0 -84px;
 		width: 16px;
 		height: 16px;
 		cursor: pointer;
@@ -66,7 +66,7 @@
 		}
 
 		.gt-timeline div.e-message .message-pointer{
-			background: url(../img/main_img.png) no-repeat 0 -122px;
+			background: url(https://raw.github.com/travisrussi/jqtimeline/master/img/main_img.png) no-repeat 0 -122px;
 			width: 14px;
 			height: 18px;
 			position: absolute;
@@ -74,7 +74,7 @@
 			z-index: 1;
 		}
 		.gt-timeline .icon-close{
-			background: url(../img/main_img.png) no-repeat -3px -227px;
+			background: url(https://raw.github.com/travisrussi/jqtimeline/master/img/main_img.png) no-repeat -3px -227px;
 			background-color: #999999;
 			width: 14px;
 			height: 14px;
